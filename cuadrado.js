@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let calculadora1=(a,b,c=0)=>{
     switch (a){
         
@@ -43,6 +44,11 @@ function calculadora(a,b,c=0){
     }
     let w=["sum",7,1];
     console.log(calculadora(...w));
+=======
+function suma(n,m,b){
+    console.log(n+m+b);
+}
+>>>>>>> rama2
 function cuadrado(n){
     console.log(n*n);
 }
