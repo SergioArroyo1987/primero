@@ -1,8 +1,6 @@
 let calculadora1=(a,b,c=0)=>{
     switch (a){
-        case "sum":
-            return b+c;
-            break;
+        
         case "subs":
             return b-c;
             break;
